@@ -37,5 +37,5 @@ nodemon app.js
 - Express-Handlebars: v5.2.0
 
 ## 專案畫面
-![MyImage](https://imgur.com/7RUgxSV)
-![MyImage](https://imgur.com/CDJWQ9H)
+![首頁](https://github.com/jarita0826/restaurantList/public/img/index.JPG)
+![詳情](https://github.com/jarita0826/restaurantList/public/img/show.JPG)
