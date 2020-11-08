@@ -38,4 +38,4 @@ nodemon app.js
 
 ## 專案畫面
 ![首頁](https://i.imgur.com/7RUgxSV.jpg)
-![詳情](https://github.com/jarita0826/restaurantList/public/img/show.JPG)
+![詳情](https://i.imgur.com/CDJWQ9H.jpg)
